@@ -1,0 +1,1 @@
+This project involves mastering various notions of data analysis and machine learning. You'll find the notebook with all the Python commands and explanations, as well as the PDF presenting the three topics, the tools used and the conclusions. 
